@@ -13,18 +13,18 @@
 ### 1. Clone the Repository
 
 ### 1. open cmd
-# git clone https://github.com/RobinX-dev/fullstackApp-QuantomLead.git
-#cd fullstackApp-QuantomLead
+<code>git clone https://github.com/RobinX-dev/fullstackApp-QuantomLead.git</code>
+<code>cd fullstackApp-QuantomLead</code>
 
 ### 2. FrontEnd Dependencies
-#cd frontend
-#npm install
-#npm start
+<code>cd frontend</code>
+<code>npm install</code>
+<code>npm start</code>
 
 ### 3. Backend Dependencies
-#cd ../backend
-#npm install
-#npm run dev
+<code>cd ../backend</code>
+<code>npm install</code>
+<code>npm run dev</code>
 
 
 ***ScreenShots*

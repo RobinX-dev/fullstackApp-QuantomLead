@@ -1,4 +1,4 @@
-# fullstackApp-QuantomLead
+# fullstackApp-QuantumLeap
 
 ## 🧰 Tech Stack
 
@@ -13,7 +13,7 @@
 ### 1. Clone the Repository
 
 ### 1. open cmd
-<code>git clone https://github.com/RobinX-dev/fullstackApp-QuantomLead.git</code>
+<code>git clone https://github.com/RobinX-dev/fullstackApp-QuantumLeap</code>
 <code>cd fullstackApp-QuantomLead</code>
 
 ### 2. FrontEnd Dependencies
